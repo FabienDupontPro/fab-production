@@ -8,7 +8,7 @@ description: A Practical Framework for Managing Free-to-Play Games as Services.
 
 The 4 Ps help teams build better free-to-play games as a service.
 
-![The Fours Ps](fourps.png)
+![The Fours Ps](/fab-production/docs/assets/fourps.png)
 
 **Product** is about the game itself and its long-term success. Producers own this part. They decide which features matter most, how the game will keep players engaged over time, and which monetization approaches make sense. Good F2P production starts with understanding player behaviors, creating compelling core loops, and planning live operations that keep content fresh.
 
