@@ -10,7 +10,7 @@ The 4 Ps help teams build better free-to-play games as a service.
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
   <figure style="flex-shrink: 0; text-align: center; margin: 0;">
-    <img src="/assets/img/fourps.png" alt="Desktop View" style="width: 70%; max-width: 450px;">
+    <img src="/assets/fourps.png" alt="Desktop View" style="width: 70%; max-width: 450px;">
     <figcaption style="font-style: italic; margin-top: 5px; text-align: center;">The 4 Ps</figcaption>
   </figure>
   
