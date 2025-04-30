@@ -1,6 +1,7 @@
-# Lean Game Production: Process That Actually Helps
-
-## Avoiding bureaucracy while keeping your game on track
+---
+title: "Lean Game Production: Process That Actually Helps"
+description: Avoiding bureaucracy while keeping your game on track.
+---
 
 ![Process vs Value Chart](https://img.freepik.com/free-vector/hand-drawn-infographic-steps_23-2149324510.jpg)
 
