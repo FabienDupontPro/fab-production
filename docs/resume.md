@@ -1,6 +1,6 @@
 ---
 title: "My Resume"
-description: 
+description: The title is quite self-explanatory
 ---
 
 ## Profile  
@@ -94,3 +94,5 @@ An Instagram passion project showcasing my collection of 70s vinyl records.
 - **Email**: fabien.dupont.pro@outlook.com  
 - **LinkedIn**: [linkedin.com/in/fabien-m-dupont](https://www.linkedin.com/in/fabien-m-dupont)  
 - **GitHub**: [github.com/FabienDupontPro](https://github.com/FabienDupontPro)
+
+#### [Home](./README.md) 
