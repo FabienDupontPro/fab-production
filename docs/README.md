@@ -4,12 +4,11 @@ You'll know a bit more about myself, whether you're a recruiter or a fellow Prod
   <img src="https://raw.githubusercontent.com/FabienDupontPro/fab-production/refs/heads/main/docs/assets/favicon-96x96.png" alt="My Face" style="margin-right: 20px; width: 150px; height: auto;">
   <p>
     <a href="aboutme.md">About Me</a>
+    <br>
     <a href="resume.md">My Resume</a>
   </p>
 </div>
-
-
-
+<br>
 
 
 ## Contents
