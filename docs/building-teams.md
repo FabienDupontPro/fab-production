@@ -68,4 +68,4 @@ The best producers know when to inspire and when to organize. They create clear 
 
 Remember that your primary job isn't tracking tasks—it's enabling your team to deliver the best possible player experience. Everything else is just a means to that end.
 
-*How are you balancing leadership and management in your current role? Are you creating systems that help everyone perform better, or relying too much on individual talent?*
+#### [Home](./README.md) 
