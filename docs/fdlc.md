@@ -6,6 +6,6 @@ tags: [thoughts, structure, process]     # TAG names should always be lowercase
 description: 
 ---
 
-
+IN PROGRESS
 
 #### [Home](./README.md) 
