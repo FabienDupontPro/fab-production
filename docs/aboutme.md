@@ -1,9 +1,6 @@
 ---
-layout: page
-title: About Me
-icon: fas fa-user
-order: 2
-permalink: /about me/
+title: "About Me"
+description: 
 ---
 
 I'm a game producer with over a decade of experience working in the video game industry, most of it spent at Wargaming. I’ve worn a lot of hats over the years—customer service rep, team lead, project manager, department head, and most recently, producer on *World of Tanks*. That range of roles shaped the way I approach game development: with a clear focus on people, purpose, and delivering features that actually matter.
