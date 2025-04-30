@@ -1,16 +1,16 @@
 You'll know a bit more about myself, whether you're a recruiter or a fellow Producer in the gaming industry :)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://via.placeholder.com/150" alt="Example image" style="margin-right: 20px; width: 150px; height: auto;">
+  <img src="/docs/assets/favicon-96x96.png" alt="My Face" style="margin-right: 20px; width: 150px; height: auto;">
   <p>
-    This is an example text next to the image. You can write as much text as you want here, and it will stay aligned with the image.
+    <a href="aboutme.md">About Me</a>
+    <a href="resume.md">My Resume</a>
   </p>
 </div>
 
-![My Face](/docs/assets/favicon-96x96.png)
 
-* ### [About Me](aboutme.md)
-* ### [My Resume](resume.md)
+
+
 
 ## Contents
 
