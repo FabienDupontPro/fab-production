@@ -8,16 +8,9 @@ description: A Practical Framework for Managing Free-to-Play Games as Services.
 
 The 4 Ps help teams build better free-to-play games as a service.
 
-<div style="display: flex; align-items: flex-start; gap: 15px;">
-  <figure style="flex-shrink: 0; text-align: center; margin: 0;">
-    <img src="/assets/fourps.png" alt="Desktop View" style="width: 70%; max-width: 450px;">
-    <figcaption style="font-style: italic; margin-top: 5px; text-align: center;">The 4 Ps</figcaption>
-  </figure>
-  
-  <div>
-    <p><strong>Product</strong> is about the game itself and its long-term success. Producers own this part. They decide which features matter most, how the game will keep players engaged over time, and which monetization approaches make sense. Good F2P production starts with understanding player behaviors, creating compelling core loops, and planning live operations that keep content fresh.</p>
-  </div>
-</div>
+![The Fours Ps](foursps.png)
+
+**Product** is about the game itself and its long-term success. Producers own this part. They decide which features matter most, how the game will keep players engaged over time, and which monetization approaches make sense. Good F2P production starts with understanding player behaviors, creating compelling core loops, and planning live operations that keep content fresh.
 
 **People** make everything happen. F2P game teams need artists, designers, engineers, data analysts, and live ops specialists. Team leads manage these people, while producers work with the leads instead of directing everyone individually. This setup helps everyone contribute to both immediate game updates and the ongoing service roadmap.
 
