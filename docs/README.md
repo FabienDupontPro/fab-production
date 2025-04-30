@@ -1,3 +1,5 @@
-# Welcome!
+# Welcome to Fab's Production corner!
 
-I have no idea what I'm doing, so just come along.
+You'll know a bit more about myself, whether you're a recruiter or a fellow producer in the gamming industry :)
+
+## [Inside the Production Machine: How World of Tanks is Made](docs/posts/2025-04-11-game-production-wargaming)
