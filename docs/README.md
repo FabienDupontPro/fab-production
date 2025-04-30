@@ -13,4 +13,5 @@ Now some thoughts, notes and and random stuff:
 * ### [What's a Game Producer?](whats-a-game-producer.md)
 * ### [Wargaming's own Software Development Life Cycle](fdlc.md)
 * ### [The 4 Ps of F2P Game Production](the-four-ps.md)
+* ### [Thriving in the Unkown: Embracing Uncertainty in F2P Game Production](thriving-in-the-unknown.md)
 
