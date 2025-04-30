@@ -1,7 +1,7 @@
 You'll know a bit more about myself, whether you're a recruiter or a fellow Producer in the gaming industry :)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/FabienDupontPro/fab-production/refs/heads/main/docs/assets/favicon-96x96.png" alt="My Face" style="margin-right: 20px; width: 96px; height: 96px; border-radius: 50%">
+  <img src="https://raw.githubusercontent.com/FabienDupontPro/fab-production/refs/heads/main/docs/assets/favicon-96x96.png" alt="My Face" style="margin-right: 20px; width: 96px; height: 96px; border-radius: 50%; transform: scaleX(-1);">
   <p>
     <a href="aboutme.md">About Me</a>
     <br>
