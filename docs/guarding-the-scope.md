@@ -1,4 +1,3 @@
-
 ---
 title: "Guarding the Scope: The Producer's Most Important Job"
 description: How to cut features without killing morale or quality
