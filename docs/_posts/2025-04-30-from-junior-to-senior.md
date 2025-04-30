@@ -1,6 +1,13 @@
 ---
 title: "From Junior to Senior: Evolving as a Game Producer"
 description: Growth strategies and common pitfalls to avoid.
+date: 2025-04-30
+categories: 
+  - Game Development
+  - Career Growth
+tags: 
+  - Game Production
+  - Career Advice
 ---
 
 ![Producer Evolution Path](https://img.freepik.com/free-vector/hand-drawn-career-progression-concept_23-2149164015.jpg)
