@@ -1,9 +1,6 @@
 ---
-layout: page
-title: Resume
-icon: fas fa-id-badge
-order: 3
-permalink: /resume/
+title: "My Resume"
+description: 
 ---
 
 ## Profile  
