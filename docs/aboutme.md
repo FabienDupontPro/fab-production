@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: 
+description: Mostly interesting if you're a recruiter
 ---
 
 I'm a game producer with over a decade of experience working in the video game industry, most of it spent at Wargaming. I’ve worn a lot of hats over the years—customer service rep, team lead, project manager, department head, and most recently, producer on *World of Tanks*. That range of roles shaped the way I approach game development: with a clear focus on people, purpose, and delivering features that actually matter.
@@ -14,3 +14,5 @@ Along the way, I’ve picked up a strong foundation in project management method
 This blog is a place for me to share what I’ve learned about game production: what works, what doesn’t, and what I’m still figuring out. It’s part notes, part reflection, and part open conversation with anyone else who’s navigating this strange and exciting industry.
 
 If any of this resonates with you, feel free to reach out. I’m always up for a chat about production, live ops, or why feature scoping always takes longer than you think.
+
+#### [Home](./README.md) 
