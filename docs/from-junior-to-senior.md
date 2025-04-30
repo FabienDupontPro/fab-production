@@ -1,6 +1,7 @@
-# From Junior to Senior: Evolving as a Game Producer
-
-## Growth strategies and common pitfalls to avoid
+---
+title: "From Junior to Senior: Evolving as a Game Producer"
+description: Growth strategies and common pitfalls to avoid.
+---
 
 ![Producer Evolution Path](https://img.freepik.com/free-vector/hand-drawn-career-progression-concept_23-2149164015.jpg)
 
