@@ -1,6 +1,7 @@
-# Building High-Performance Game Teams Without Burning Out
-
-## It's about systems, not just superstars
+---
+title: "Building High-Performance Game Teams Without Burning Out"
+description: It's about systems, not just superstars.
+---
 
 ![Team Performance Systems](https://img.freepik.com/free-vector/hand-drawn-team-building-concept_23-2149010098.jpg)
 
