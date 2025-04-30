@@ -15,4 +15,4 @@ Now some thoughts, notes and and random stuff:
 * ### [Building High-Performance Game Teams Without Burning Out](building-teams.md)
 * ### [Lean Game Production: Process That Actually Helps](lean-game-production.md)
 * ### [Guarding the Scope: The Producer's Most Important Job](guarding-the-scope.md)
-* ### [From Junior to Senior: Evolving as a Game Producer](from-junior-to-senior.md)
+* ### [From Junior to Senior: Evolving as a Game Producer](2025-04-30-from-junior-to-senior.md)
