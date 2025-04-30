@@ -1,6 +1,8 @@
-# Guarding the Scope: The Producer's Most Important Job
 
-## How to cut features without killing morale or quality
+---
+title: "Guarding the Scope: The Producer's Most Important Job"
+description: How to cut features without killing morale or quality
+---
 
 ![Scope Triangle](https://img.freepik.com/free-vector/hand-drawn-project-management-concept_23-2149179068.jpg)
 
