@@ -78,7 +78,7 @@ Supported players with account, gameplay, and billing issues. Helped refine supp
 - Becoming a Product Manager (LinkedIn) - [Credential](https://www.linkedin.com/learning/certificates/9513079fd62015b08c4b74cf73e829caba2e2e3c6e6fd53dc041def04711cbfb)
 - Product Management First Steps (LinkedIn) - [Credential](https://www.linkedin.com/learning/certificates/4f945cc0d4d0966b9a424283fb192abedbcf5dba001cb1e9f605ad3fc45de60e)
 - Game Analytics: Basics to Advanced (Edvice) - [credential](https://legacy.edvice.pro/education/online-course/certificate/lZoa0b5kslW6paa2P2n08g/) 
-- Live Ops in Games (Edvice) - [credential](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://legacy.edvice.pro/education/online-course/certificate/nosZ0b5kslW6pa-3PW3x9Q/)
+- Live Ops in Games (Edvice) - [credential](https://legacy.edvice.pro/education/online-course/certificate/nosZ0b5kslW6pa-3PW3x9Q/)
 - Product Analytics: User Monetization (Edvice) - [credential](https://legacy.edvice.pro/education/online-course/certificate/h5Ya0b5kslW6paK3P2f78w/) 
 - Game Design Foundations: Core Loops & Goals (LinkedIn) - [Credential](https://www.linkedin.com/learning/certificates/dc3d8240b38a23cf359dade45efda5a9248fb8ddea508816d45a47b4ff2a7d33)
 
