@@ -5,127 +5,129 @@ description: Growth strategies and common pitfalls to avoid.
 
 ![Producer Evolution Path](https://img.freepik.com/free-vector/hand-drawn-career-progression-concept_23-2149164015.jpg)
 
-The path from junior to senior producer isn't just about time served—it's about developing specific skills and avoiding common traps. Having made plenty of mistakes myself, I want to share what I've learned to help others grow faster.
+# Going From Junior to Senior Producer
 
-## Junior Producer Pitfalls
+Becoming a senior producer takes more than time. You need specific skills and must avoid common traps. I made plenty of mistakes on my way up, so let me save you some pain.
 
-When I look back at my early days, I see three mistakes that many new producers make:
+## Junior Producer Traps
 
-**1. Over-optimization**
+Here are three mistakes most new producers make:
 
-This happens when you focus too much on process instead of outcomes. You spend hours perfecting JIRA dashboards, creating detailed plans that need constant revision, or hunting for the perfect retrospective format.
+**1. Loving process more than results**
 
-Instead, think about where the real value comes from and focus there. Consistently good execution beats occasional perfection every time.
+You spend hours making perfect JIRA boards, detailed plans nobody follows, or hunting for the ideal retrospective method.
 
-**2. The Switchboard Syndrome**
+Focus on what creates real value instead. Good work done often beats perfect work done rarely.
 
-Junior producers often become information hubs—taking in, storing, and passing along details without fully processing them. While knowing a lot is valuable, simply relaying information isn't enough.
+**2. Being a human router**
 
-Make sure you understand what information means, who needs it, and how it impacts the project before passing it along.
+Many junior producers just pass information around without thinking about it. They know a lot but add little value.
 
-**3. The Golden Retriever Effect**
+Make sure you understand what info means and who truly needs it before sending it on.
 
-Always being cheerful and cracking jokes can boost morale, but don't use positivity to paper over real problems. Learn to balance maintaining good spirits with addressing serious concerns.
+**3. Being too cheery**
 
-Take your team's problems seriously and know when to switch from lighthearted to focused.
+Always smiling and joking can lift spirits, but don't use good vibes to cover up real issues. 
 
-## Moving Beyond Reactive Mode
+Know when to stop the jokes and address serious problems head on.
 
-Another common issue for junior producers is waiting to be told what to do. They don't drive topics, push for changes, or prevent problems proactively.
+## Stop Waiting for Instructions
 
-When I was starting out, this frustrated me enormously. I'd ask senior producers, "How do I get better at this?" and they'd say, "It's just experience"—which wasn't helpful!
+Junior producers often sit around waiting to be told what to do. They don't drive topics, push for change, or prevent problems.
 
-While experience is indeed crucial, here are ways to accelerate your learning:
+When I was new, I asked senior producers how to get better. They just said, "It comes with experience." Not helpful!
 
-**1. Learn from others' mistakes**
+While experience matters, here's how to learn faster:
 
-Ask colleagues about their past errors or preventable problems. Join online communities where producers share experiences. (Benjamin Carcich's Building Better Games Discord is great for this!)
+**1. Steal others' experience**
 
-**2. Read postmortems**
+Ask teammates about their past mistakes. Join online producer groups where people share war stories. Benjamin Carcich's Building Better Games Discord has great discussions.
 
-Someone has likely made the same mistakes you're about to make. Game Developer (formerly Gamasutra) has an excellent collection of postmortems that reveal what went right and wrong on real projects.
+**2. Read game postmortems**
 
-**3. Find a mentor**
+Someone has made your future mistakes already. Game Developer has tons of postmortems showing what went right and wrong on real projects.
 
-A more experienced producer can help you think through situations, explain their approach to similar problems, and provide valuable shortcuts based on their experience.
+**3. Get a mentor**
 
-## Setting Better Goals
+Find a seasoned producer who can show you the ropes, walk through tricky situations, and share shortcuts they learned the hard way.
 
-With each new fiscal year or project phase comes goal-setting. Using the SMART framework can help make your objectives more achievable:
+## Better Goals
 
-**Specific:** Review past feedback for actionable improvement areas. Vague goals like "be a better communicator" are harder to achieve than specific ones like "send clearer meeting agendas."
+Use SMART goals to make real progress:
 
-**Measurable:** Find concrete ways to track progress. How many times will you do something? How long should it take? Measurement enables iteration and improvement.
+**Specific:** Don't say "communicate better." Say "write clearer meeting agendas."
 
-**Actionable:** Focus on what YOU can control, not what others decide. Place objectives within your circle of influence.
+**Measurable:** Track concrete numbers. How often? How much? How long?
 
-**Relevant:** Consider how each goal improves you, your team, and your project. Make sure it matters in your current context.
+**Actionable:** Focus on what YOU control, not what depends on others.
 
-**Time-Based:** Set clear endpoints or milestones to gauge progress and create urgency.
+**Relevant:** Make sure each goal helps you, your team, and your project.
 
-Additionally:
-- Establish regular review checkpoints with your manager
-- Create contingency plans for when situations change
-- Track progress consistently so you have evidence during reviews
+**Time-Based:** Set clear deadlines to create urgency.
 
-## Reflection Through Retrospectives
+Also:
+- Schedule regular check-ins with your boss
+- Have backup plans when things change
+- Keep evidence of your progress for review time
 
-Retrospectives are powerful tools for improvement when used correctly. Common retrospective mistakes include:
+## Make Retrospectives Work
 
-**1. Changing formats too often**
+Retrospectives help teams improve when done right. Avoid these mistakes:
 
-This breaks consistency and makes it harder to follow up on previous improvements. Experiment with formats, but stick with each one for several cycles before changing.
+**1. Changing format every time**
 
-**2. Taking on all improvements yourself**
+Pick a format and stick with it for several sessions before trying something new.
 
-The retrospective is for the team, not just the producer. Everyone should contribute to improving processes. When producers shoulder all improvements, teams become passive about how work gets done.
+**2. Taking on all the work yourself**
 
-**3. Always hosting instead of participating**
+The whole team should fix process problems, not just you. When producers do all the fixing, teams stop caring about how work happens.
 
-Rotate who hosts retrospectives so everyone, including you, can contribute. Retrospectives aren't complaint sessions directed at the producer—they're collaborative improvement opportunities.
+**3. Always running the show**
 
-**4. Poor timing**
+Take turns hosting so you can be a participant too. Retros aren't complaint sessions aimed at you, they're team improvement tools.
 
-Find the right frequency for your team. Too frequent, and improvements don't have time to take effect. Too infrequent, and problems fester.
+**4. Bad timing**
 
-## Daily Habits of Excellent Producers
+Find the right frequency. Too often means improvements don't have time to work. Too rare means problems fester.
 
-The best producers I know share certain habits:
+## Daily Habits of Great Producers
 
-**1. Play the game regularly**
+The best producers I know do these things:
 
-This keeps you connected to what players experience and helps you understand the impact of development decisions.
+**1. Play the game**
 
-**2. Focus on important, non-urgent topics**
+Stay connected to the player experience. Know how development decisions affect the game.
 
-Block calendar time for these before they become urgent crises.
+**2. Handle important but not urgent stuff**
 
-**3. Maintain a live game mindset**
+Block time for these tasks before they become emergencies.
 
-Treat everything as if it's going into production immediately. This ensures high-quality work and thorough planning.
+**3. Treat everything like it ships tomorrow**
 
-**4. Stay connected to the team**
+This ensures quality work and thorough planning.
 
-Regular check-ins help maintain awareness of team morale and progress.
+**4. Stay close to your team**
 
-**5. Turn stand-ups into mini planning sessions**
+Regular check-ins help you spot issues with morale and progress.
 
-Focus on the day ahead rather than just status updates.
+**5. Make standups about planning**
 
-**6. Consider the impact of interruptions**
+Focus on the day ahead, not just status reports.
 
-Before disrupting someone's focus, ask if it can wait. Often, things aren't as urgent as they first appear.
+**6. Think before interrupting**
 
-**7. Maintain a good to-do list**
+Ask if it can wait before breaking someone's focus. Most things aren't truly urgent.
 
-Whether paper or digital, keep a prioritized, frequently updated list of tasks.
+**7. Keep a good task list**
 
-## Evolving Your Approach
+Whether paper or digital, maintain a current, prioritized list of what needs doing.
 
-As you grow from junior to senior producer, your focus shifts from executing processes to shaping them, from following plans to creating them, and from handling information to generating insights.
+## Growing Up
 
-The most valuable producers aren't those who know the most about methodologies—they're the ones who help teams deliver great games while growing professionally and avoiding burnout.
+As you move from junior to senior producer, you'll shift from following processes to creating them, from executing plans to building them, and from handling information to generating insights.
 
-Remember that production is a craft like any other in game development. It takes practice, reflection, and continuous improvement to master. Be patient with yourself, learn from mistakes, and keep pushing to be better.
+Great producers don't just know about methodologies. They help teams deliver awesome games while growing skills and avoiding burnout.
+
+Production is a craft like any other in game development. It takes practice, reflection, and constant improvement. Be patient with yourself, learn from mistakes, and keep pushing to get better.
 
 #### [Home](./README.md) 
