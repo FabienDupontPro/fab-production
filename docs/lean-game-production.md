@@ -3,7 +3,7 @@ title: "Lean Game Production: Process That Actually Helps"
 description: Avoiding bureaucracy while keeping your game on track.
 ---
 
-![Process vs Value Chart](https://img.freepik.com/free-vector/hand-drawn-infographic-steps_23-2149324510.jpg)
+![Lean Game Production](./assets/placeholder.png)
 
 # Cut the Crap: Game Dev Without the Bureaucracy BS
 
