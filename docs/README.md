@@ -1,5 +1,3 @@
-You'll know a bit more about myself, whether you're a recruiter or a fellow Producer in the gaming industry :)
-
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/FabienDupontPro/fab-production/refs/heads/main/docs/assets/favicon-96x96.png" alt="My Face" style="margin-right: 20px; width: 96px; height: 96px; border-radius: 50%; transform: scaleX(-1);">
   <p>
@@ -10,6 +8,7 @@ You'll know a bit more about myself, whether you're a recruiter or a fellow Prod
 </div>
 <br>
 
+Here are some notes and thoughts I started compiling when working as a Game Producer, and also include my previous roles in project management. They reflect my personal experience and by no means represent a production bible or project management guideline, just things that worked out for me. Some are based on articles that I found online and thought they were relevant for me, and I added my own perspective. Some notes are purely based on my work at Wargaming and are high-level on purpose so they don't contain any confidential details.
 
 ## Contents
 
