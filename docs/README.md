@@ -1,9 +1,9 @@
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/FabienDupontPro/fab-production/refs/heads/main/docs/assets/favicon-96x96.png" alt="My Face" style="margin-right: 20px; width: 96px; height: 96px; border-radius: 50%; transform: scaleX(-1);">
   <p>
-    <a href="/fab-production/docs/aboutme.html">About Me</a>
+    <a href="/fab-production/aboutme.html">About Me</a>
     <br>
-    <a href="/fab-production/docs/resume.html">My Resume</a>
+    <a href="/fab-production/resume.html">My Resume</a>
   </p>
 </div>
 Here are some notes and thoughts I started compiling when working as a Game Producer, and also include my previous roles in project management. They reflect my personal experience and by no means represent a production bible or project management guideline, just things that worked out for me. <br>
