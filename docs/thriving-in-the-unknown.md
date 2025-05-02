@@ -6,6 +6,8 @@ description: Practical ways to navigate the fog of game development.
 
 ![Thriving in the Unknown](./assets/thriving-in-the-unknown2.png)
 
+# Thriving in Uncertainty: The Real F2P Game Dev Skill
+
 Making free-to-play games comes with one guarantee: you won't know everything. The best developers don't fight this fact, they work with it.
 
 F2P games face questions from every direction. Will players dig this feature? Will this monetization work? How will player habits shift over time? These questions never end.
