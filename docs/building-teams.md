@@ -3,7 +3,7 @@ title: "Building High-Performance Game Teams Without Burning Out"
 description: It's about systems, not just superstars.
 ---
 
-![The Four Ps](./assets/team-performance.png)
+![Building high Performance Team](./assets/team-performance.png)
 
 # You Don't Need Rockstars
 
