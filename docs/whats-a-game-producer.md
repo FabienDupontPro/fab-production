@@ -6,6 +6,8 @@ tags: [thoughts, test]     # TAG names should always be lowercase
 description: The Gaming Industry's Most Misunderstood Role.
 ---
 
+# What's a Game Producer?
+
 If you ask three game developers to define what a producer does, you will likely get four different answers. The title "Producer" in gaming is about as specific as saying someone "works with computers." Despite being crucial to game development, the producer role remains confusing, inconsistent, and full of misconceptions.
 
 ## Not All Producers Are Created Equal
