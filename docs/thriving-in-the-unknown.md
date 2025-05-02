@@ -4,7 +4,7 @@ date: 2025-04-30 10:00:00 +0200
 description: Practical ways to navigate the fog of game development.
 ---
 
-![The Four Ps](./assets/thriving-in-the-unknown.png)
+![Thriving in the Unknown](./assets/thriving-in-the-unknown.png)
 
 If there's one constant in making free-to-play games, it's this: you will always face uncertainty. The best developers aren't the ones who eliminate uncertainty—they're the ones who know how to work with it.
 
