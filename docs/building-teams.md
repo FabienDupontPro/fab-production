@@ -3,70 +3,72 @@ title: "Building High-Performance Game Teams Without Burning Out"
 description: It's about systems, not just superstars.
 ---
 
-![Team Performance Systems](https://img.freepik.com/free-vector/hand-drawn-team-building-concept_23-2149010098.jpg)
+![The Four Ps](./assets/team-performance.png)
 
-A common myth in game development is that you need a team of high performers to create a successful game. This thinking leads studios to chase "rockstar" developers while overlooking something much more important: creating systems that help everyone perform at their best.
+# You Don't Need Rockstars
 
-After years producing free-to-play games, I've found that team effectiveness depends less on individual brilliance and more on how well people work together. The right systems can help ordinary teams achieve extraordinary results.
+Forget chasing "rockstar" developers. It's a waste of time. What you need are systems that make everyone better.
 
-## Creating High-Performance Systems
+I've seen it firsthand: team success comes from how well people work together, not individual genius. Good systems turn average teams into winners.
 
-What makes a team excel isn't just the talent of its members but the environment in which they work. Here's how to build systems that elevate everyone:
+## Make Your Systems Work
 
-**1. Focus on teamwork over individual achievement**
+What makes teams great? Not talent alone, but the right environment:
 
-The team is the smallest unit that creates value. There's no such thing as individual success in game development—either the whole team succeeds or it fails.
+**1. Team beats individual**
 
-Make sure all sub-teams understand the main goal and how their work contributes. Don't allow internal competition or misalignment to take hold. Build a culture where helping others is valued as much as personal contribution.
+The team creates value, not lone wolves. Games succeed or fail as a group effort.
 
-**2. Simplify as much as possible**
+Make sure everyone knows the main goal and their part in it. Don't let teams compete with each other. Value people who help others as much as star performers.
 
-If people don't understand how to succeed, failure becomes much more likely. Make your processes and goals clear enough that everyone can follow them.
+**2. Keep it simple**
 
-Encourage questions when things aren't clear. Ensure everyone knows their responsibilities and what to do when things go wrong. Create simple standard operating procedures for repetitive tasks.
+When people don't understand how to succeed, they fail. Create clear processes anyone can follow.
 
-**3. Prioritize ruthlessly and keep moving**
+Welcome questions when things seem muddy. Make sure everyone knows their job and what to do when problems pop up. Create basic guides for tasks you do often.
 
-Things get overwhelming fast in game development. Clear priorities help teams focus on what matters.
+**3. Pick your battles**
 
-Regularly identify your top priorities and communicate them clearly. Perform risk analysis and contingency planning to prevent firefighting. Help sub-team leaders prioritize within their areas.
+Game dev gets chaotic fast. Clear priorities keep teams on track.
 
-**4. Distribute leadership**
+Tell everyone what matters most, right now. Plan for risks before they blow up. Help team leads sort out what's important in their areas.
 
-Large teams need to break down into smaller, self-managing groups with clear leaders.
+**4. Spread the leadership**
 
-Don't micromanage these sub-leaders. Help them understand priorities and empower them to make decisions. Allow leaders to move where they're needed most. Ensure all leaders share important information with their teams.
+Big teams need to break into smaller groups with clear leaders.
 
-## Leading Up and Down
+Trust these leaders to handle their areas. Help them grasp priorities and let them make calls. Move leaders where they can help most. Make sure all leaders share key info with their teams.
 
-If you're a producer at any level, leadership is already part of your job—even if it's not in your title. And you need to lead both downward and upward.
+## Lead Up and Down
 
-**Leading downward** means getting away from your desk and talking directly with people doing the work. Understand their challenges firsthand. Observe teams in action to spot issues before they become problems. Have face-to-face conversations to build relationships and trust.
+As a producer, you lead whether it's in your title or not. And you need to lead in both directions.
 
-**Leading upward** means helping your managers make timely decisions. If they struggle with this, look at how you can better support them with information or options. Always pass situational awareness upward so leadership knows what's happening and why.
+**Leading down** means getting off your butt and talking to the people doing the work. See their problems firsthand. Watch teams in action to catch issues early. Talk face to face to build trust.
 
-Both directions matter for effectiveness. Take responsibility for influencing everyone in your sphere, regardless of the reporting structure.
+**Leading up** means helping bosses make decisions on time. If they drag their feet, find ways to give them better info or clearer options. Always tell leadership what's happening and why.
 
-## Maximizing Creative Time
+Both matter. Take charge of influencing everyone around you, no matter who reports to whom.
 
-As a producer, think about how much time your team spends coordinating versus creating. When coordination outweighs creation, you have work to do.
+## More Making, Less Meeting
 
-First, ensure everyone knows and agrees on the goals. Alignment reduces the need for constant communication.
+Think about how much time your team spends talking about work versus doing work. When talk outweighs action, fix it.
 
-Second, break down the work so that short-term tasks are crystal clear. This prevents teams from spinning on interpretations.
+First, get everyone on the same page about goals. When people agree on the target, they need fewer check ins.
 
-Third, while your team works on current tasks, prepare what's coming next. Gather information, documentation, and resources they'll need to hit the ground running.
+Second, make short term tasks crystal clear. This stops people from spinning their wheels trying to figure out what to do.
 
-A lot of time gets wasted figuring out where documents are, who needs to talk to whom, or where things exist in the codebase. The more of this preparation you handle before it's needed, the more smoothly work will flow.
+Third, while the team works on today's jobs, set up tomorrow's. Gather the info and tools they'll need to start strong.
 
-Always aim to remove friction from the creative process. Each obstacle you eliminate lets your team focus more on making a great game.
+Teams waste time hunting for files, figuring out who to talk to, or searching through code. Handle this prep work before it's needed, and work flows better.
 
-## Balancing Leadership and Management
+Always try to remove speed bumps from the creative process. Each obstacle you clear lets your team focus more on making a great game.
 
-In free-to-play games, where long-term player engagement is everything, you need both strong leadership (setting vision) and effective management (executing that vision).
+## Know When to Lead, When to Manage
 
-The best producers know when to inspire and when to organize. They create clear paths for their teams while removing obstacles that slow progress.
+In free to play games, where player interest over time is everything, you need both vision setting and execution skills.
 
-Remember that your primary job isn't tracking tasks—it's enabling your team to deliver the best possible player experience. Everything else is just a means to that end.
+Good producers know when to inspire and when to organize. They create clear paths forward while clearing roadblocks.
+
+Remember, your main job isn't tracking tasks. It's helping your team create the best player experience possible. Everything else just supports that goal.
 
 #### [Home](./README.md) 
