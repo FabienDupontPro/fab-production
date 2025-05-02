@@ -6,8 +6,6 @@
     <a href="resume.md">My Resume</a>
   </p>
 </div>
-<br>
-
 Here are some notes and thoughts I started compiling when working as a Game Producer, and also include my previous roles in project management. They reflect my personal experience and by no means represent a production bible or project management guideline, just things that worked out for me. 
 Some are based on articles that I found online and thought they were relevant for me, and I added my own perspective. Some notes are purely based on my work at Wargaming and are high-level on purpose so they don't contain any confidential details.
 
