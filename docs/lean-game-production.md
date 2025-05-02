@@ -38,9 +38,9 @@ I keep hearing, "We must do X because Agile says so." Wrong. Ask instead: What p
 
 Take daily standups. I haven't run one in years. Why? They wasted time. People said the same things every day.
 
-As a Producer and as a Project Manager, I experimented with different frequency. I've had once a week, twice weekly, usually with additional daily stand-ups for the last sprint of an important milestone. I realized what's important is what works for this specific team for this specific project.
+As a Producer and Project Manager, I’ve tried different frequency. Once a week, twice a week, sometimes adding daily stand-ups during the final sprint of a big milestone. What I’ve learned is that the right frequency depends on the team and the project. There’s no one-size-fits-all, just what works here and now.
 
-Of course these will never replace your weekly 1on1s, and that is a frequency I never changed and never heard any complains about.
+Of course these will never replace your weekly personal 1on1s, and that is a frequency I never changed and never heard any complains about.
 
 For blockers, we use team chat. If something's stuck, I know right away what needs fixing.
 
