@@ -30,15 +30,16 @@ Producers then act as a filter. They weigh business impact, development costs, a
 
 ## What a Stream Team Looks Like
 
-Each stream is a cross-discipline team that might include:
+Each stream is a cross-discipline team that might include one or multiple:
 
-- a project manager
-- one or more designers (gameplay, systems, monetization, levels)
-- a UI/UX designer
-- a system architect
-- front-end and back-end developers
-- a server programmer
-- several QA managers
+- Project manager
+- Game designer
+- UI and/or UX designer
+- System designer
+- Solution architect
+- Front-end/Web developer
+- QA manager
+- And more (Monetization designer, Level designer, Server programmer, etc.)
 
 Team members still report to their functional departments, but producers decide what they work on and when. This setup allows specialization while still moving as one unit.
 
