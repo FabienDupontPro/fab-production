@@ -85,8 +85,7 @@ Supported players with account, gameplay, and billing issues. Helped refine supp
 ---
 
 ## Projects  
-**[Those_70s_Vinyls](https://www.instagram.com/those_70s_vinyls/)**  
-An Instagram passion project showcasing my collection of 70s vinyl records.
+Instagram page showcasing my collection of 70's vinyl records:**[Those_70s_Vinyls](https://www.instagram.com/those_70s_vinyls/)**  
 
 ---
 
