@@ -3,7 +3,7 @@ title: "Guarding the Scope: The Producer's Most Important Job"
 description: How to cut features without killing morale or quality
 ---
 
-![Guarding the Scope](./assets/placeholdername.png)
+![Guarding the Scope](./assets/guarding-scope.png)
 
 # Guardians of the Scope
 
