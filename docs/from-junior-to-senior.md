@@ -55,15 +55,11 @@ Find a seasoned producer who can show you the ropes, walk through tricky situati
 
 Use SMART goals to make real progress:
 
-**Specific:** Don't say "communicate better." Say "write clearer meeting agendas."
-
-**Measurable:** Track concrete numbers. How often? How much? How long?
-
-**Actionable:** Focus on what YOU control, not what depends on others.
-
-**Relevant:** Make sure each goal helps you, your team, and your project.
-
-**Time-Based:** Set clear deadlines to create urgency.
+- **Specific:** Don't say "communicate better." Say "write clearer meeting agendas."
+- **Measurable:** Track concrete numbers. How often? How much? How long?
+- **Actionable:** Focus on what YOU control, not what depends on others.
+- **Relevant:** Make sure each goal helps you, your team, and your project.
+- **Time-Based:** Set clear deadlines to create urgency.
 
 Also:
 - Schedule regular check-ins with your boss
@@ -74,53 +70,22 @@ Also:
 
 Retrospectives help teams improve when done right. Avoid these mistakes:
 
-**1. Changing format every time**
-
-Pick a format and stick with it for several sessions before trying something new.
-
-**2. Taking on all the work yourself**
-
-The whole team should fix process problems, not just you. When producers do all the fixing, teams stop caring about how work happens.
-
-**3. Always running the show**
-
-Take turns hosting so you can be a participant too. Retros aren't complaint sessions aimed at you, they're team improvement tools.
-
-**4. Bad timing**
-
-Find the right frequency. Too often means improvements don't have time to work. Too rare means problems fester.
+- **Changing format every time**: Pick a format and stick with it for several sessions before trying something new.
+- **Taking on all the work yourself**: The whole team should fix process problems, not just you. When producers do all the fixing, teams stop caring about how work happens.
+- **Always running the show**: Take turns hosting so you can be a participant too. Retros aren't complaint sessions aimed at you, they're team improvement tools.
+- **Bad timing**: Find the right frequency. Too often means improvements don't have time to work. Too rare means problems fester.
 
 ## Daily Habits of Great Producers
 
 The best producers I know do these things:
 
-**1. Play the game**
-
-Stay connected to the player experience. Know how development decisions affect the game.
-
-**2. Handle important but not urgent stuff**
-
-Block time for these tasks before they become emergencies.
-
-**3. Treat everything like it ships tomorrow**
-
-This ensures quality work and thorough planning.
-
-**4. Stay close to your team**
-
-Regular check-ins help you spot issues with morale and progress.
-
-**5. Make standups about planning**
-
-Focus on the day ahead, not just status reports.
-
-**6. Think before interrupting**
-
-Ask if it can wait before breaking someone's focus. Most things aren't truly urgent.
-
-**7. Keep a good task list**
-
-Whether paper or digital, maintain a current, prioritized list of what needs doing.
+- **Play the game**: Stay connected to the player experience. Know how development decisions affect the game.
+- **Handle important but not urgent stuff**: Block time for these tasks before they become emergencies.
+- **Treat everything like it ships tomorrow**: This ensures quality work and thorough planning.
+- **Stay close to your team**: Regular check-ins help you spot issues with morale and progress.
+- **Make standups about planning**: Focus on the day ahead, not just status reports.
+- **Think before interrupting**: Ask if it can wait before breaking someone's focus. Most things aren't truly urgent.
+- **Keep a good task list**: Whether paper or digital, maintain a current, prioritized list of what needs doing.
 
 ## Growing Up
 
