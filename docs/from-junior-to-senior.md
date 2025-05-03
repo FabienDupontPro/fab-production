@@ -13,23 +13,14 @@ Becoming a senior producer takes more than time. You need specific skills and mu
 
 Here are three mistakes most new producers make:
 
-**1. Loving process more than results**
+**Loving process more than results**
+You spend hours making perfect JIRA boards, detailed plans nobody follows, or hunting for the ideal retrospective method. Focus on what creates real value instead. Good work done often beats perfect work done rarely.
 
-You spend hours making perfect JIRA boards, detailed plans nobody follows, or hunting for the ideal retrospective method.
+**Being a human router**
+Many junior producers just pass information around without thinking about it. They know a lot but add little value. Make sure you understand what info means and who truly needs it before sending it on.
 
-Focus on what creates real value instead. Good work done often beats perfect work done rarely.
-
-**2. Being a human router**
-
-Many junior producers just pass information around without thinking about it. They know a lot but add little value.
-
-Make sure you understand what info means and who truly needs it before sending it on.
-
-**3. Being too cheery**
-
-Always smiling and joking can lift spirits, but don't use good vibes to cover up real issues. 
-
-Know when to stop the jokes and address serious problems head on.
+**Being too cheery**
+Always smiling and joking can lift spirits, but don't use good vibes to cover up real issues. Know when to stop the jokes and address serious problems head on.
 
 ## Stop Waiting for Instructions
 
