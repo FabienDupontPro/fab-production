@@ -3,7 +3,7 @@ title: "From Junior to Senior: Evolving as a Game Producer"
 description: Growth strategies and common pitfalls to avoid.
 ---
 
-![Junior to Sernior Producer](./assets/junior-to-senior.png)
+![Junior to Senior Producer](./assets/junior-to-senior.png)
 
 # Going From Junior to Senior Producer
 
