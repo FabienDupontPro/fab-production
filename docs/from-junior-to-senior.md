@@ -39,17 +39,9 @@ When I was new, I asked senior producers how to get better. They just said, "It 
 
 While experience matters, here's how to learn faster:
 
-**1. Steal others' experience**
-
-Ask teammates about their past mistakes. Join online producer groups where people share war stories. Benjamin Carcich's Building Better Games Discord has great discussions.
-
-**2. Read game postmortems**
-
-Someone has made your future mistakes already. Game Developer has tons of postmortems showing what went right and wrong on real projects.
-
-**3. Get a mentor**
-
-Find a seasoned producer who can show you the ropes, walk through tricky situations, and share shortcuts they learned the hard way.
+- **Steal others' experience**: Ask teammates about their past mistakes. Join online producer groups where people share war stories. Benjamin Carcich's Building Better Games Discord has great discussions.
+- **Read game postmortems**: Someone has made your future mistakes already. Game Developer has tons of postmortems showing what went right and wrong on real projects.
+- **Get a mentor**: Find a seasoned producer who can show you the ropes, walk through tricky situations, and share shortcuts they learned the hard way.
 
 ## Better Goals
 
