@@ -6,6 +6,8 @@ tags: [thoughts, structure, team]     # TAG names should always be lowercase
 description: The Development Structure Behind a Massive F2P Game.
 ---
 
+![World of Tanks Production](https://worldoftanks.com/dcont/fb/media/menu_screen_wallpaper/conqueror/2560x1600-5.jpg)
+
 # Inside the Production Machine: How World of Tanks is Made
 
 World of Tanks has stayed relevant for over a decade, which is rare in the crowded free-to-play world. That kind of staying power doesn’t happen by chance. It takes a production setup built to handle both the business side and the player experience. Here’s a look at how that works behind the scenes.
