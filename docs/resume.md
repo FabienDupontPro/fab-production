@@ -19,7 +19,11 @@ Project Manager and Producer with 13+ years of experience in game development an
 ### Game Producer – *World of Tanks*  
 **Wargaming, Nicosia, Cyprus**  
 *Mar 2024 – Apr 2025*  
-Led a cross-functional team from concept to release, balancing priorities, managing risk, and delivering features that drive engagement and business impact.  
+Led a cross-functional team to deliver features aligned with product strategy, focusing on retention, account integration, and player conversion. 
+Defined and prioritized the roadmap based on KPIs, resource constraints, and player segments. 
+Drove planning from scope to release, ensured alignment across teams, and resolved delivery bottlenecks. 
+Analyzed product metrics to guide decisions and communicated progress, risks, and trade-offs to stakeholders.
+
 - Merged progression, purchases, and rewards between Wargaming and Steam accounts (Live: Feb 25)  
 - Shipped two features improving new and returning player experience (Live: Jun–Jul 25)  
 - Launched a retention campaign targeting mid/high-engagement players (Planned: Sep 25)
