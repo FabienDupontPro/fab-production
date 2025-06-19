@@ -16,7 +16,7 @@ Here's the truth: you need just enough structure to keep things moving, nothing 
 Watch for these red flags:
 
 1. **Nobody knows who decides anything**
-2. **Tasks never finish** and roll over sprint after sprint
+2. **Tasks never finish and roll over sprint after sprint**
 3. **Nothing moves without checking with five people first**
 4. **No new ideas ever get tried**
 5. **Small problems become team crises**
@@ -54,8 +54,9 @@ It's not just valid in Game Production, it's quite universal:
 2. **Show up prepared** with all links and docs ready
 3. **Write notes and follow up** so everyone stays aligned
 4. **Make sure everyone talks** or why are they there?
+
 A bonus one that I read somwhere:
-5. **Schedule 25 or 50 minutes** instead of 30 or 60 to give people breathing room
+6. **Schedule 25 or 50 minutes** instead of 30 or 60 to give people breathing room
 
 And for meetings over 2 hours, bring food. Just do it.
 
