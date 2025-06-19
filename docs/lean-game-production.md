@@ -55,10 +55,7 @@ It's not just valid in Game Production, it's quite universal:
 3. **Write notes and follow up** so everyone stays aligned
 4. **Make sure everyone talks** or why are they there?
 
-A bonus one that I read somwhere:
-6. **Schedule 25 or 50 minutes** instead of 30 or 60 to give people breathing room
-
-And for meetings over 2 hours, bring food. Just do it.
+A bonus one that I read somwhere: **Schedule 25 or 50 minutes** instead of 30 or 60 to give people breathing room
 
 ## Process Serves the Game, Not the Other Way Around
 
