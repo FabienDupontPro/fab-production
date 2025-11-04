@@ -25,11 +25,9 @@ This diversity exists because studios shape producer roles according to their sp
 
 Walk into any studio and "Producer" might mean:
 
-Someone who manages project timelines and resources like a traditional project manager.
-
-A product visionary who prioritizes features and represents player interests, similar to a product owner in other industries.
-
-A people manager who supervises teams and helps with career development.
+- Someone who manages project timelines and resources like a traditional project manager.
+- A product visionary who prioritizes features and represents player interests, similar to a product owner in other industries.
+- A people manager who supervises teams and helps with career development.
 
 Sometimes one producer does all three, while other studios split these responsibilities among multiple people with the same title.
 
@@ -49,11 +47,9 @@ It’s a setup that works well for a big, complex free-to-play game that needs t
 
 To add another layer of complexity, producers come with ranks:
 
-**Executive Producers** typically oversee multiple projects or an entire studio's output. They handle high-level decisions about budgets and strategic direction.
-
-**Producers manage** individual games or major components of larger titles.
-
-**Associate Producers** support producers with specific tasks and learn the ropes.
+- **Executive Producers** typically oversee multiple projects or an entire studio's output. They handle high-level decisions about budgets and strategic direction.
+- **Producers** manage individual games or major components of larger titles.
+- **Associate Producers** support producers with specific tasks and learn the ropes.
 
 These titles can indicate seniority, but the actual responsibilities vary tremendously between companies.
 
